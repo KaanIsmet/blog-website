@@ -43,8 +43,8 @@ A modern, full-stack blog platform built with Next.js and Prisma, featuring a cl
 
 1. Clone the repository
 ```bash
-git clone https://github.com/KaanIsmet/personal-blog.git
-cd personal-blog
+git clone https://github.com/KaanIsmet/git@github.com:KaanIsmet/blog-website.git.git
+cd blog-website
 ```
 
 2. Install dependencies
